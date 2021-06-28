@@ -12,7 +12,7 @@ Implementações utilizadas para desenvolver as paginas.
 Usado também , do proprio react, useState, useEffect. 
 
 Foi feito um fecth de uma api , própria do curso, para implementar os produtos na página. 
-```
+```javascript
   useEffect(() =>{
     fetch('https://ranekapi.origamid.dev/json/api/produto')
     .then(r => r.json())
