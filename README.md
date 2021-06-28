@@ -17,7 +17,7 @@ Foi feito um fecth de uma api , própria do curso, para implementar os produtos 
   }, []);
   ```
 
-Usei também para facilitar a stilização das passas o 
+Usei também para facilitar a stilização das páginas o <br>
 <a href="https://sass-lang.com/">Sass no modo de Scss</a>
 
 Qualquer duvida podem me chamar.
